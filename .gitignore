@@ -1,0 +1,26 @@
+# Local datasets
+/data/
+
+# Virtual environments
+.venv/
+venv/
+RPvenv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Local editor settings
+.vscode/
+
+# Local secrets
+.env
+.env.*
+!.env.example
+
+# Operating system files
+.DS_Store
+Thumbs.db
